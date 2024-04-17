@@ -40,6 +40,7 @@ cd pancakeswap-perpetual-bot-full-automatic
 
 
 ## 🐰⚡ Installation on Terminal - MacOs
+### In order to ensure license control in the Mac version, we are currently sending the codes for Mac only to our users who request them via Telegram. If you are a Mac user, you can send us a message on Telegram and request the codes. [Telegram](https://t.me/pancakeswapprediction)
 
 Download and Install Git here:
 [Git](https://git-scm.com/download/mac)
